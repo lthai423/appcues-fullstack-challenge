@@ -1,0 +1,19 @@
+{
+  "name": "appcues",
+  "version": "1.0.0",
+  "description": "Appcues Incremental Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lthai423/appcues-fullstack-challenge.git"
+  },
+  "author": "Lawrence Thai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lthai423/appcues-fullstack-challenge/issues"
+  },
+  "homepage": "https://github.com/lthai423/appcues-fullstack-challenge#readme"
+}
