@@ -7,6 +7,9 @@ require('./config/middleware.js')(app, express);
 // use routes
 require('./config/routes.js')(app);
 
+// sqlite3 database
+require('./db/init_db.js');
+
 const port = process.env.PORT || 3333;
 
 app.listen(port, function () {
